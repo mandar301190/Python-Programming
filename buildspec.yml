@@ -1,0 +1,6 @@
+version: 0.2
+
+question: Hello, world!
+buttons:
+  - Exit: exit
+mandatory: True
